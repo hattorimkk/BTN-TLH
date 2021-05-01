@@ -1,0 +1,180 @@
+.u-section-1 {
+  background-image: url("images/id_sodotuduy_thumb.jpg");
+  background-position: 50% 50%;
+  min-height: 796px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 452px;
+  min-height: 152px;
+  background-image: none;
+  animation-duration: 1000ms;
+  height: auto;
+  margin: 17px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  margin: 26px 0 0;
+}
+
+.u-section-1 .u-group-2 {
+  width: calc(((100% - 1140px) / 2) + 421px);
+  min-height: 158px;
+  background-image: none;
+  height: auto;
+  margin: -153px auto 0 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 25px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 452px;
+  height: 449px;
+  animation-duration: 1000ms;
+  margin: -8px 0 0 auto;
+}
+
+.u-section-1 .u-group-3 {
+  width: calc(((100% - 1140px) / 2) + 372px);
+  min-height: 133px;
+  background-image: none;
+  animation-duration: 1000ms;
+  height: auto;
+  margin: -122px auto 60px 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  margin: 31px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 656px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: calc(((100% - 940px) / 2) + 421px);
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-group-3 {
+    width: calc(((100% - 940px) / 2) + 372px);
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 502px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: calc(((100% - 720px) / 2) + 421px);
+  }
+
+  .u-section-1 .u-group-3 {
+    width: calc(((100% - 720px) / 2) + 372px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 377px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: calc(((100% - 540px) / 2) + 421px);
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-group-3 {
+    width: calc(((100% - 540px) / 2) + 372px);
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 126px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: calc(((100% - 340px) / 2) + 340px);
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 338px;
+  }
+
+  .u-section-1 .u-group-3 {
+    width: calc(((100% - 340px) / 2) + 340px);
+    margin-top: -11px;
+  }
+}h1:hover {
+color : green;
+}
+p:hover {
+color : red;
+}
+h4:hover {
+color : orange;
+}
+h5:hover {
+color : blue;
+}
+h2:hover {
+color : yellow;
+}
